@@ -66,7 +66,7 @@ include 'config/db.php';
                         <select class="form-control" name="level">
                             <option>      -==-     </option>
 							<option value="3">Pelatih</option>
-                            <option value="1">Kesiswaan</option>
+                            <!--<option value="1">Kesiswaan</option>-->
                             <option value="2">Siswa</option>
                         </select>
                     </div>
